@@ -1,0 +1,13 @@
+Project 1, Fall 2022
+
+TEST  CORRECT OUTPUT   
+ 1.     VALID BINGO
+ 2.     NO BINGO
+ 3.     VALID BINGO
+ 4.     NO BINGO
+ 5.     NO BINGO
+ 6.     VALID BINGO
+ 7.     NO BINGO
+ 8.     NO BINGO
+ 9.     VALID BINGO
+10.     NO BINGO
